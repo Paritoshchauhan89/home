@@ -1,0 +1,70 @@
+.carousel-item > img{
+    width:100%;
+    height: 600px;
+   
+
+}
+
+.carousel-caption{
+    bottom: 9.25rem;
+    color: black;
+    
+}
+button{
+    margin-top: 20px;
+}
+.sf, h1 p{
+    font-size: 80px !important;
+    color: black !important;
+}
+.sf p{
+    color: black;
+    font-size: large;
+    font-weight: 700px;
+    
+}
+.rf, p{
+
+   padding: 10px;
+   border-radius: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+    .div123 {
+      display: block;
+    }
+    .col-md-4, .div1, .div2{
+        width: 100% !important;  
+    }
+    .carousel-item > img {
+    height: 300px;
+    }
+    .abc123{
+        display: inline-block !important;
+        width: 800px;
+    }
+    .row>*{
+        margin: auto !important;
+    }
+    .p-3{
+        padding: 3rem !important;
+        margin-top: 30px;
+    }
+    .sbn123{
+        width: inherit;
+    }
+    .cbc123{
+        margin-top: 30px !important;
+    }
+    .carousel-caption {
+        bottom: 1.25rem !important; 
+        font-size: small;
+}
+.carousel-caption p {
+    font-size: 10px !important;
+}
+.sf, h1{
+    font-size: 18px !important;
+    font-weight: bolder;
+}
+  }

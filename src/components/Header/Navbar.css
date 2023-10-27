@@ -1,0 +1,12 @@
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+  .navbar-nav .nav-link:hover {
+    color: #ff5733;
+  }
+
+  .navbar-nav .dropdown-item:hover {
+    color: #ff5733;
+  }
+ 

@@ -1,0 +1,41 @@
+.error {
+    background: #fff;
+    color: #222;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  .errorh{
+color: #0eb500 ;
+  }
+
+  @media (max-width: 560px) {
+    .writing {
+      width: 96%;
+    }
+  }
+  
+  .background-oregon-grapes {
+    background-image: url("https://cdn.wallpapersafari.com/0/80/KIiEkW.jpg");
+    background-size: 100%;
+    height: 460px;
+    width: 460px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-right: auto;
+  }
+  @media (max-width: 767px) {
+    .background-oregon-grapes {
+      height: 230px;
+      width: 230px;
+    }
+  }
+  
+  
+  .error1 img {
+    height: 100%;
+    width: 100%;
+  }
+  

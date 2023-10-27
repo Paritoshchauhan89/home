@@ -174,4 +174,7 @@ video {
         text-align: center;
         padding: 10px;
     }
+    .about-page {
+        height: 146vh;
+    }
 }
